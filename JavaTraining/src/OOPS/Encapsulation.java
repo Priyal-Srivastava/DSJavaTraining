@@ -1,2 +1,4 @@
-package OOPS;public class Encapsulation {
+package OOPS;
+
+public class Encapsulation {
 }

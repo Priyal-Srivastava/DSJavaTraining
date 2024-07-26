@@ -1,2 +1,4 @@
-package OOPS;public class Inheritence {
+package OOPS;
+
+public class Inheritence {
 }
