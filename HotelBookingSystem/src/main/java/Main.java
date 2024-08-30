@@ -58,7 +58,7 @@ public class Main {
 //        // to insert the document into the bookingCollection
 //        bookingCollection.insertOne(bookingDocument);
 
-       //  to insert multiple document
+        //  to insert multiple document
 //        ArrayList<Document> bookingList = new ArrayList<>();
 //
 //        bookingDocument.append("bookingID",random.nextInt(999999));
